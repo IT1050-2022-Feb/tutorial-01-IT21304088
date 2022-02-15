@@ -6,6 +6,15 @@
 
 int main() {
   
+  int m1,m2;
+  float avg;
+
+  printf("ENTER THE MARKS OF SUGJECT 1 : ");
+  scanf("%d",&m1);
+  printf("ENTER THE MARKS OF SUGJECT 1 : ");
+  scanf("%d",&m2);
+  avg=(m1+m2)/2.0;
+  printf("YOUR AVERAGE IS : %0.2f",avg);
   return 0;
 }
 
