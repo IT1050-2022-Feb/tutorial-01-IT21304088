@@ -25,6 +25,5 @@ int main() {
   }
   printf("The Sum is : %d",sum);
   return 0;
-  //done
 }
 
